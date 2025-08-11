@@ -1,3 +1,5 @@
+
+
 <h1 align="center">JimpitanApp</h1>
 <p align="center">
   Sistem Informasi Jimpitan Berbasis Laravel untuk Efisiensi Administrasi RT
@@ -16,7 +18,11 @@
   <a href="#">
     <img src="https://img.shields.io/badge/PHP-8.3-blue?style=flat-square&logo=php" alt="PHP">
   </a>
+  <a href="#contributors-">
+    <img src="https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square" alt="All Contributors">
+  </a>
 </p>
+
 
 ---
 
@@ -56,6 +62,55 @@ Aplikasi ini memudahkan pencatatan, pelaporan, dan transparansi keuangan warga s
 - **Ganang** Setya Putra (2313010576).
 - **Shady** Hulian Wibowo (2313010573).
 
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/andreantaufikh.png"  alt="#"/><br  /><sub><b>Andrean Taufik H</b></sub></a><br  /><a  href="#"    <a  href="#"    <a  href="#"  </a></td>
+
+<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/Gansputra.png"  alt="#"/><br  /><sub><b>Ganang</b></sub></a><br  /><a  href="#d"    <a  href="#"    <a  href="#"  </a></td>
+
+<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/akslzero.png"  alt="#"/><br  /><sub><b>Aksyal</b></sub></a><br  /><a  href="#" <a  href="#"   <a  href="#"  </a></td>
+
+<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/RaizelF.png"  alt="#"/><br  /><sub><b>Fatih</b></sub></a><br  /><a  href="#"    <a  href="#"   <a  href="#"  </a></td>
+<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/RaizelF.png"  alt="#"/><br  /><sub><b>Aksyal</b></sub></a><br  /><a  href="#"    <a  href="#"   <a  href="#"  </a></td>
+
+</tr>
+
+</tbody>
+
+<tfoot>
+
+<tr>
+
+<td  align="center"  size="13px"  colspan="7">
+
+<img  src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+
+<a  href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+
+</img>
+
+</td>
+
+</tr>
+
+</tfoot>
+
+</table>
+
+  
+
+<!-- markdownlint-restore -->
+
+<!-- prettier-ignore-end -->
+
+  
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 📥 Instalasi
 
