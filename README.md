@@ -75,7 +75,7 @@ Aplikasi ini memudahkan pencatatan, pelaporan, dan transparansi keuangan warga s
 
 <td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/akslzero.png"  alt="#"/><br  /><sub><b>Aksyal Fiqih ikhtiar</b></sub></a><br  /><a  href="#" <a  href="#"   <a  href="#"  </a></td>
 
-<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/RaizelF.png"  alt="#"/><br  /><sub><b>Fatih</b></sub></a><br  /><a  href="#"    <a  href="#"   <a  href="#"  </a></td>
+<td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/RaizelF.png"  alt="#"/><br  /><sub><b>Fatih Muhammad b</b></sub></a><br  /><a  href="#"    <a  href="#"   <a  href="#"  </a></td>
 <td  align="center"  valign="top"  width="7%"><a  href="#"><img  src="https://github.com/Hulian573.png"  alt="#"/><br  /><sub><b>Shady Hulian Wibowo</b></sub></a><br  /><a  href="#"    <a  href="#"   <a  href="#"  </a></td>
 
 </tr>
