@@ -132,14 +132,16 @@ Aplikasi ini memudahkan pencatatan, pelaporan, dan transparansi keuangan warga s
     php artisan key:generate
 6. Jalankan migrasi
    ```bash
-   hp artisan migrate --seed
+   php artisan migrate --seed
 7. Jalankan server
    ```bash
    php artisan serve
 
-## Security Vulnerabilities
+## Image
+   ```bash
+    Soon
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
 
 ## License
 
