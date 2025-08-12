@@ -47,8 +47,8 @@ Aplikasi ini memudahkan pencatatan, pelaporan, dan transparansi keuangan warga s
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Laravel 10** — Framework PHP modern.
-- **PHP 8.2** — Bahasa pemrograman backend.
+- **Laravel 12** — Framework PHP modern.
+- **PHP 8.3** — Bahasa pemrograman backend.
 - **MySQL** — Database relasional.
 - **Bootstrap 5** — Tampilan responsif & modern.
 - **Chart.js** — Visualisasi data.
