@@ -1,6 +1,6 @@
 
 
-<h1 align="center">JimpitanApp</h1>
+<h1 align="center">E-Kas Jimpitan</h1>
 <p align="center">
   Sistem Informasi Jimpitan Berbasis Laravel untuk Efisiensi Administrasi RT
 </p>
@@ -38,6 +38,7 @@ Aplikasi ini memudahkan pencatatan, pelaporan, dan transparansi keuangan warga s
 ## Fitur Utama
 
 - 📋 **Manajemen Warga** — Tambah, edit, dan hapus data warga.
+- 🧑‍💼 **Manajemen Petugas** — Tambah, edit, dan hapus data petugas.
 - 💰 **Pencatatan Iuran Jimpitan** — Otomatis menghitung total pemasukan.
 - 📊 **Laporan Keuangan** — Grafik pemasukan bulanan dan tahunan.
 - 🔔 **Notifikasi Pembayaran** — Memberi pengingat untuk iuran yang belum dibayar.
@@ -50,7 +51,7 @@ Aplikasi ini memudahkan pencatatan, pelaporan, dan transparansi keuangan warga s
 - **Laravel 12** — Framework PHP modern.
 - **PHP 8.3** — Bahasa pemrograman backend.
 - **MySQL** — Database relasional.
-- **Bootstrap 5** — Tampilan responsif & modern.
+- **Tailwind CSS** — Tampilan responsif & modern.
 - **Chart.js** — Visualisasi data.
 - **SweetAlert2** — Popup interaktif.
   
